@@ -1,0 +1,2 @@
+print(" HELLO LEARNING PYTHON CURRENTLY")
+print(5+10)
